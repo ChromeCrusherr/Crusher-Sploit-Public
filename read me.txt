@@ -1,0 +1,1 @@
+when you install when you open the exploit don't open it as normal user open it as administrator because the inject will not work.
